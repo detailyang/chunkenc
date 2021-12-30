@@ -4,7 +4,7 @@
 
 # use
 ```toml
-chunkend = {git = "https://github.com/detailyang/chunkenc.git", branch = "main"}
+chunkenc = {git = "https://github.com/detailyang/chunkenc.git", branch = "main"}
 ```
 
 # usage
