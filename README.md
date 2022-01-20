@@ -1,6 +1,6 @@
 # chunkenc
 [ChunkEncoding](https://github.com/prometheus/prometheus/blob/0876d57aea9636898835c7a179760a6cd72a290d/tsdb/chunkenc/xor.go) is written in Rust to support chunk encoding.
-> The original implement is written in Golang via prometheus team
+> The original implement was written in Go via prometheus team
 
 # use
 ```toml
